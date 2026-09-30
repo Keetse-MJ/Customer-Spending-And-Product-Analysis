@@ -36,9 +36,9 @@ Order Date
 
 
 ### Project Files
-`- customer_order_project.sql – Database, tables and data`
-01_subqueries.sql – Subquery questions and solutions
-02_ctes_window_functions.sql – CTE and window function questions and solutions
+` customer_order_project.sql – Database, tables and data`
+`01_subqueries.sql – Subquery questions and solutions`
+`02_ctes_window_functions.sql – CTE and window function questions and solutions`
 
 ### What I Learned
 
